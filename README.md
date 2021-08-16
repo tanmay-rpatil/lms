@@ -2,6 +2,7 @@
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
+Group project, made by @tanmay-rpatil , @Pranavi2709 , @agarwalmanas2300 , @kanishk1208 and @kanishk062001
 
 The project aims and objectives that will be achieved after completion of this project. The
 aims and objectives are as follows:
